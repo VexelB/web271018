@@ -1,7 +1,7 @@
 {
   "name": "20180920_155834",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "rgb.js",
   "license": "MIT",
   "devDependencies": {
     "diff2html-cli": "^2.6.0",
@@ -10,11 +10,8 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.0",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.1"
   },
   "dependencies": {
     "goss_concat": "^1.0.3",
-    "moment": "^2.22.2"
   }
 }
